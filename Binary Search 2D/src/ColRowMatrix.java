@@ -9,7 +9,6 @@ public class ColRowMatrix {
                 {33,34,38,50}
         };
         System.out.println(Arrays.toString(search(arr,250)));
-
     }
     static int[] search(int[][] matrix, int target){
         int row=0;
